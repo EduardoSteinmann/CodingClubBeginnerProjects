@@ -31,13 +31,11 @@ int main()
 	//Skips a line.
 	std::cout << '\n';
 
-	/*These two variables are volume and surface area, respectively,
-	and are defined with the formulas to calculate volume and surface area with the inputs from the user.*/
+	/*This variable stores the volume,
+	and are defined with the formulas to calculate volume with the inputs from the user.*/
 	double volume = length * width * height;
-	double surfaceArea = 2 * (length * height) + 2 * (width * height) + 2 * (width * length);
 
-	//These two statements display the surface area and volume of the rectangle.
-	std::cout << "The surface area of the rectangle is: " << surfaceArea << " inches squared." << '\n';
+	//This statement display the volume of the rectangle.
 	std::cout << "The volume of the rectangle is: " << volume << " inches cubed." << '\n';
 
 	return 0;
