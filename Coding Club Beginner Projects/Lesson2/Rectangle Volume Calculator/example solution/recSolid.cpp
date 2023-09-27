@@ -1,5 +1,10 @@
 #include <iostream>
 
+/* 
+ * Q: How does std::cin work?
+ * A: Think of the ">>" as a little arrow that's saying "put whatever the user entered into this variable".
+ */
+
 int main()
 {
 	//variables for length, width, and height are declared here.
