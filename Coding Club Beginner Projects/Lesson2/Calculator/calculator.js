@@ -1,4 +1,5 @@
 /* 
+ * Even if no one askes this, this can also serve as a guideline as to what to talk about.
  * Possible questions and answers:
  * Q: Why do we write " * 1" after the prompt()?
  * A: This is to make sure that whatever the user entered is made into a number, if it can be.

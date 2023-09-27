@@ -1,4 +1,5 @@
 """
+Even if no one askes this, this can also serve as a guideline as to what to talk about.
 Possible questions and answers:
 Q: How does input() work?
 A: The function input() takes in the user's input until they press enter,

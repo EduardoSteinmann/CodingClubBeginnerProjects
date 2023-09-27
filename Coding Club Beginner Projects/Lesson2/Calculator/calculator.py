@@ -1,4 +1,5 @@
 """ 
+Even if no one askes this, this can also serve as a guideline as to what to talk about.
 Possible questions and answers:
 Q: What does the float() around the input() do?
 A: It does something called "casting", which just means taking a *type* and changing it to another type.

@@ -1,4 +1,5 @@
 /* 
+ * Even if no one askes this, this can also serve as a guideline as to what to talk about.
  * Q: How does prompt() work?
  * A: The function prompt() takes in the user's input until they press enter,
  * returning a string. We can optionally pass a *string* to the prompt() function that

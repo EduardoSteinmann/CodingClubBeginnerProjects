@@ -1,6 +1,7 @@
 #include <iostream>
 
 /* 
+ * Even if no one askes this, this can also serve as a guideline as to what to talk about.
  * Q: How does std::cin work?
  * A: Think of the ">>" as a little arrow that's saying "put whatever the user entered into this variable".
  */
