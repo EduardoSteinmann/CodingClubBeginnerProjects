@@ -2,7 +2,9 @@ amount_of_grades = int(input("Hello! Enter in the amount of grades you want to s
 
 letter_grades = []
 
-for i in range(amount_of_grades):
+i = 0
+
+while i < amount_of_grades:
     print("Enter in grade number", i + 1, ": ", end='')
     grade = float(input(""))
     if grade >= 90 and grade <= 100:
@@ -18,6 +20,7 @@ for i in range(amount_of_grades):
     else:
         print("Invalid grade entered... Please enter in a valid grade.")
         i -= 1
+    i += 1
 
 print("Here are the grade:")
 for letter_grade in letter_grades:
