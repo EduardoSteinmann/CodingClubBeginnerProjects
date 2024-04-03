@@ -1,5 +1,5 @@
 #Rudimentary implementation: 
-#Doesn't take into account spaces, special characters or anything like that, but for now we'll use it to sbow tbe students how to make an isPalindrome function
+#Doesn't take into account spaces, special characters or anything like that, but for now we'll use it to show the students how to make an isPalindrome function
 def reverse_string(string_to_reverse):
     reversed = ""
     i = len(string_to_reverse)
